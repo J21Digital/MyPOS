@@ -1,0 +1,13 @@
+MYPOS BUG LIST
+--------------
+*Nothing is here!*
+
+MYPOS POTENTIAL ADDITIONS
+-------------------------
+
+Scroll all richtextboxes.
+
+Allow continue with enter press
+-Allow menu to continue on enter press
+
+Add order number
